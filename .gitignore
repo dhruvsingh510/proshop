@@ -6,7 +6,6 @@ node_modules/
 /.pnp
 .pnp.js
 .prettierrc.json
-.eslintcache 
 
 # testing
 /coverage

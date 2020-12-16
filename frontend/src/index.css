@@ -2,8 +2,9 @@ main {
   min-height: 80vh;
 }
 
-h4 {
+h5 {
   padding: 1rem 0rem;
+  letter-spacing: 0.08rem;
 }
 
 .rating span {
