@@ -40,3 +40,5 @@ const admin = (req, res, next) => {
 }
 
 export { protect, admin }
+
+// End of file
