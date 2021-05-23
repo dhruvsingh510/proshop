@@ -1,4 +1,4 @@
-# ProShop eCommerce Platform
+<h1>ProShop eCommerce Platform</h1>
 > This is an E-Commerce website that is built using the MERN stack - MongoDB, Express, React and Node
 
 
