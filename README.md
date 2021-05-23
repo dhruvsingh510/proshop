@@ -3,12 +3,10 @@
 
 <br>
 <br>
-<br>
 
 ## Live Version
 https://proshopapp510.herokuapp.com/
 
-<br>
 <br>
 <br>
 
@@ -24,7 +22,6 @@ https://proshopapp510.herokuapp.com/
  - Checkout process(shipping, payment method etc)
  - Database seeder(products and users)
 
-<br>
 <br>
 <br>
 
