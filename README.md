@@ -1,12 +1,13 @@
-# ProShop eCommerce Platform
+# ProShop eCommerce Platform 💪
  > This is an E-Commerce website that is built using the MERN stack - MongoDB, Express, React and Node
+[![Capture.jpg](https://i.postimg.cc/VvtGg2f1/Capture.jpg)](https://postimg.cc/vxQtHqxS)
 <br>
 
-## Live Version
+## Live Version 🔥
 https://proshopapp510.herokuapp.com/
 <br>
 
-## Features
+## Features 📝
  - Full featured shopping cart
  - Product reviews and rating
  - Product search feature
@@ -19,7 +20,7 @@ https://proshopapp510.herokuapp.com/
  - Database seeder(products and users)
 <br>
 
-## Built with 
+## Built with ⛏️
  - Node.js
  - Express
  - React
