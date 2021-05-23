@@ -1,7 +1,6 @@
 # ProShop eCommerce Platform 💪
  > This is an E-Commerce website that is built using the MERN stack - MongoDB, Express, React and Node
 
-<br>
 [![Capture.jpg](https://i.postimg.cc/VvtGg2f1/Capture.jpg)](https://postimg.cc/vxQtHqxS)
 <br>
 <br>
